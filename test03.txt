@@ -1,5 +1,0 @@
-测试出现fast-forward错误，用哪种方法
-1.  https://www.cnblogs.com/sjhsszl/p/8708471.html   但这个会把别的仓库的东西都拉下来这里，不太理想
-
-2.https://blog.csdn.net/kiddd_fu/article/details/78247290
-现在来尝试第二个
